@@ -10,7 +10,7 @@ import argparse
 import subprocess
 
 GIT_REPO = [
-    ['origin',  'master', 'git@github.com:whans/blog.git'],
+    ['origin',  'gh-pages', 'git@github.com:whans/blog.git'],
 ]
 
 DEPLOY_DIR = 'gh-pages'
