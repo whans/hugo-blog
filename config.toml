@@ -32,9 +32,9 @@ defaultContentLanguage = "zh-cn"
 
 [author]
   name = "Wu Hanson"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  #bio = "Super bio with markdown support **COOL**"
+  job = "Android engineer"
+  location = "Xiamen China"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "hanshengwu@gmail.com"
   # Your profile picture
@@ -108,7 +108,7 @@ defaultContentLanguage = "zh-cn"
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Hanson blog"
 
   # Customization
   # Define the behavior of the sidebar
