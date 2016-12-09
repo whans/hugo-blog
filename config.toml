@@ -20,7 +20,7 @@ disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "zh-cn"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -82,13 +82,7 @@ defaultContentLanguage = "en-us"
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 1
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://github.com/whans"
 
 [[menu.misc]]
   weight = 0
