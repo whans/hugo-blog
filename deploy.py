@@ -13,7 +13,7 @@ GIT_REPO = [
     ['origin',  'master', 'git@github.com:whans/blog.git'],
 ]
 
-DEPLOY_DIR = 'master'
+DEPLOY_DIR = 'whans.github.io'
 
 
 class ChDir:
